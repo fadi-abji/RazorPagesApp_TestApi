@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesApp", "RazorPagesApp\RazorPagesApp.csproj", "{17609876-0A2E-4194-8042-FEEB2BBFBC28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitRazorPagesApp", "RazorPagesApp\FruitRazorPagesApp.csproj", "{17609876-0A2E-4194-8042-FEEB2BBFBC28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
